@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kadeem Lewis</h1>
 <h3 align="center">An investigative and determined Front-End Developer</h3>
-
+<div align="center">
 - 🔭 I’m currently working on [Personal Planner App](https://github.com/kadeem-lewis/planner-app)
 
 - 🌱 I’m currently learning **Javascript, NodeJS, ExpressJS**
@@ -12,6 +12,7 @@
 - 🥅 2022 Goals: Build more personal projects
 
 - ⚡ Fun fact **I am a big fan of gaming and esports**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
