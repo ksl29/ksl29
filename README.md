@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, NodeJS, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [kadeemlewis.com](kadeemlewis.com)
+- 👨‍💻 All of my projects are available at [kadeemlewis.com](https://kadeemlewis.com)
 
 - 📫 How to reach me **contact@kadeemlewis.com**
 
