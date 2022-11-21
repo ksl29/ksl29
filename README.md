@@ -33,7 +33,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p><img style="text-align:center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadeem-lewis&show_icons=true&theme=synthwave&hide_border=true&locale=en&layout=compact" alt="kadeem-lewis" /></p>
+<p><img style="display:block;margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadeem-lewis&show_icons=true&theme=synthwave&hide_border=true&locale=en&layout=compact" alt="kadeem-lewis" /></p>
 
-<p>&nbsp;<img style="text-align:center" src="https://github-readme-stats.vercel.app/api?username=kadeem-lewis&show_icons=true&theme=synthwave&hide_border=true&locale=en" alt="kadeem-lewis" /></p>
+<p>&nbsp;<img style="display:block;margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=kadeem-lewis&show_icons=true&theme=synthwave&hide_border=true&locale=en" alt="kadeem-lewis" /></p>
 
