@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@kadeemlewis.com**
 
-- 🥅 2022 Goals: Build more personal projects
+- 🥅 2023 Goals: Build more personal projects and become better at problem solving
 
 - ⚡ Fun fact **I am a big fan of gaming and esports**
 
