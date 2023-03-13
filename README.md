@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kadeem Lewis</h1>
 <h3 align="center">An investigative and determined Front-End Developer</h3>
 
-- 🔭 I’m currently working on [Hangman](https://github.com/kadeem-lewis/hangman)
+- 🔭 I’m currently working on [Personal Planneer](https://github.com/kadeem-lewis/personal-planner)
 
-- 🌱 I’m currently learning **Javascript, NodeJS, ExpressJS**
+- 🌱 I’m currently learning **TypeScript, React, Postgres**
 
 - 👨‍💻 All of my projects are available at [kadeemlewis.com](https://kadeemlewis.com)
 
