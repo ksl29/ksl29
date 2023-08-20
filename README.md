@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kadeem Lewis</h1>
 <h3 align="center">An investigative and determined Front-End Developer</h3>
 
-- 🔭 I’m currently working on [Planner App](https://github.com/kadeem-lewis/planner-app)
+- 🔭 I’m currently working on [Hnagmen](https://github.com/kadeem-lewis/hangmen)
 
-- 🌱 I’m currently learning **TypeScript, React, Postgres**
+- 🌱 I’m currently learning **TypeScript, Nuxt, Socket.io**
 
 - 👨‍💻 All of my projects are available at [kadeemlewis.com](https://kadeemlewis.com)
 
-- 📫 How to reach me **contact@kadeemlewis.com**
+- 📫 How to reach me **email@kadeemlewis.com**
 
 - 🥅 2023 Goals: Build more personal projects and become better at problem solving
 
