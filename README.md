@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadeem Lewis</h1>
 <h3 align="center">An investigative and determined Front-End Developer</h3>
 
-- 🔭 I’m currently working on [Hnagmen](https://github.com/kadeem-lewis/hangmen)
+- 🔭 I’m currently working on [Hangmen](https://github.com/kadeem-lewis/hangmen)
 
 - 🌱 I’m currently learning **TypeScript, Nuxt, Socket.io**
 
