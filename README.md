@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pokedexle](https://github.com/kadeem-lewis/pokedexle)
 
-- 🌱 I’m currently learning **TypeScript, Nuxt, Socket.io**
+- 🌱 I’m currently learning **TypeScript, Nextjs, Prisma**
 
 - 👨‍💻 All of my projects are available at [kadeemlewis.com](https://kadeemlewis.com)
 
